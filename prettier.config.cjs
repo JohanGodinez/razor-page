@@ -1,0 +1,5 @@
+// prettier config
+
+module.exports = {
+  plugin: [require("prettier-plugin-tailwindcss")],
+};
